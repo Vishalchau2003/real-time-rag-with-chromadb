@@ -1,0 +1,5 @@
+chromadb
+streamlit
+rich
+llama-cpp-python
+
